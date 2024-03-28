@@ -1,0 +1,5 @@
+numpy
+pandas
+python-dotenv
+langchain_community
+neo4j
