@@ -1,0 +1,15 @@
+streamlit 
+embedchain
+watchdog
+langchain_community 
+tiktoken 
+angchain-openai 
+langchainhub 
+chromadb 
+langchain
+youtube-transcript-api 
+pytube
+bs4
+PyPDF2
+faiss-cpu
+pdfminer
